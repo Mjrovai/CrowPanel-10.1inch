@@ -1103,5 +1103,5 @@ Happy making!
 
 ---
 
-*Tutorial by [Marcelo Rovai](https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile/) — Professor Honoris Causa, [UNIFEI](https://international.unifei.edu.br/) - Federal University of Itajuba | [TinyML4D](https://tinyml.seas.harvard.edu/team) - Academic Network Co-Chair | [Edge AIP](https://www.edgeaifoundation.org/posts/announcing-the-tinyml-foundation-industry-academia-partnership) **- **Academia-Industry Partnership Co-Chair*
+*Tutorial by [Marcelo Rovai](https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile/) — Professor Honoris Causa, [UNIFEI](https://international.unifei.edu.br/) - Federal University of Itajuba | [TinyML4D](https://tinyml.seas.harvard.edu/team) - Academic Network Co-Chair | [Edge AIP](https://www.edgeaifoundation.org/posts/announcing-the-tinyml-foundation-industry-academia-partnership) - Academia-Industry Partnership Co-Chair*
 
