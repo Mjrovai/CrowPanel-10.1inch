@@ -11,7 +11,7 @@
 // Define JSON buffer size and URL
 #define JSON_BUFFER_SIZE    256
 #define WEATHER_JSON_URL    "http://service.thinknode.cc/api/users/weather"
-// #define WEATHER_JSON_URL    "https://api.openweathermap.org/data/2.5/weather?q=Rio%20de%20Janeiro,BR&units=metric&appid=03f078558547e01eaeb78e2e64792a5c"
+// #define WEATHER_JSON_URL    "https://api.openweathermap.org/data/2.5/weather?q=Rio%20de%20Janeiro,BR&units=metric&appid=TOKEN"
 // Rio de Janeiro coords, metric units, current weather only
 // #define WEATHER_JSON_URL  "https://api.open-meteo.com/v1/forecast?latitude=-22.90&longitude=-43.20&current=temperature_2m"
 
