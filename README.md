@@ -53,7 +53,7 @@ No prior ESP-IDF experience is required, but comfort reading C code and basic fa
 | SDK Support             | ESP-IDF, Arduino IDE, LVGL, MicroPython                                 |
 | Audio                   | Audio amplifier, microphones, dual speakers                             |
 
-![CrowPanel board overview](./images/png/panel.png)
+![CrowPanel board overview](./images/jpeg/panel.jpg)
 
 ---
 
